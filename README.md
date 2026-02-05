@@ -1,0 +1,2 @@
+# Imagen
+Imagen de intensidad
